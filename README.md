@@ -34,7 +34,7 @@ file /usr/local/freetds-arm/bin/tsql
 #Copy file to ARM
 scp -r /usr/local/freetds-arm /usr/local/iconv-arm user_name@arm_ip:/usr/local
 ```
-> __Note:__ If `/usr/local` not exist on ARM, use `mkdir /usr/local`  create it before.
+> __Note:__ if `/usr/local` not exist on ARM, use `mkdir /usr/local`  create it before.
 ## Install
 ```bash
 #remote login ARM
