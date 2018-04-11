@@ -50,4 +50,4 @@ add `client charset = UTF-8`
 vi /usar/local/freetds-arm/etc/locales.conf
 ```
 In `[default]` section  
-replace `date format = %b %e %Y %I:%M:%S:%z%p` to `date format = %Y-%m-%d %H:%M:%S`
+replace `date format = %b %e %Y %I:%M:%S:%z%p` with `date format = %Y-%m-%d %H:%M:%S`
