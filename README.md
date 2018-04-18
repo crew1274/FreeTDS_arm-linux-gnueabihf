@@ -7,7 +7,7 @@ tar xvf freetds-1.00.82.tar.gz
 
 #download iconv for UTF-8 encode
 wget https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.15.tar.gz
-tar libiconv-1.15.tar.gz
+tar xvf libiconv-1.15.tar.gz
 ```
 ## Cross Compile
 
